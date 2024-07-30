@@ -20,7 +20,3 @@ The goal is to derive meaningful statistics and summaries to help understand var
   - Union
   - Distinct
   - Aggregate functions
-    - Avg
-    - Min
-    - Max
-    - Count
