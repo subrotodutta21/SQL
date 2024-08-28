@@ -1,4 +1,4 @@
-# Movie Rental DA through SQL
+# SQL - Movie Rental Analysis
 ![Project cover](https://github.com/user-attachments/assets/55acdc11-6192-44ea-aa9f-597ffc2760c2)
 ## Project Overview
 This project involves exploring the movie rental dataset to gain insights into customer activity, inventory details, payment processing, and more. 
